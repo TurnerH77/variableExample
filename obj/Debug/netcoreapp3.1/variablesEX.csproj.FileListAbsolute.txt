@@ -1,0 +1,13 @@
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.csprojAssemblyReference.cache
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.AssemblyInfoInputs.cache
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.AssemblyInfo.cs
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.csproj.CoreCompileInputs.cache
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\bin\Debug\netcoreapp3.1\variablesEX.exe
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\bin\Debug\netcoreapp3.1\variablesEX.deps.json
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\bin\Debug\netcoreapp3.1\variablesEX.runtimeconfig.json
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\bin\Debug\netcoreapp3.1\variablesEX.runtimeconfig.dev.json
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\bin\Debug\netcoreapp3.1\variablesEX.dll
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\bin\Debug\netcoreapp3.1\variablesEX.pdb
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.dll
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.pdb
+C:\Users\turne\Documents\TrueCoders\repos\variablesEX\obj\Debug\netcoreapp3.1\variablesEX.genruntimeconfig.cache
